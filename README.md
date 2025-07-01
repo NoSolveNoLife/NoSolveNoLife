@@ -36,6 +36,7 @@
 + [TEST](https://www.acmicpc.net/problem/20057)
 + [TEST](https://www.acmicpc.net/problem/10942)
 + [TEST](https://www.acmicpc.net/problem/15903)
+</details>
 
 
 ## Introduction
