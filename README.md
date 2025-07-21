@@ -1,6 +1,6 @@
 <div align="center">
 
-# Algo-Inha
+# No solve No life
 
 ![languages](https://img.shields.io/github/languages/count/TeamWon1/demo-repository)
 ![issues](https://img.shields.io/github/issues-pr/TeamWon1/demo-repository)
