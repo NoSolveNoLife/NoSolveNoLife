@@ -21,12 +21,11 @@
 <details>
   <summary>Click to expand!</summary>
   
-### 250705
-+ [K번째 수](https://www.acmicpc.net/problem/1300)
-+ [CCW](https://www.acmicpc.net/problem/11758)
-+ [팔](https://www.acmicpc.net/problem/1105)
-+ [기타 레슨](https://www.acmicpc.net/problem/2343)
-
+### 250729
++ [ATM](https://www.acmicpc.net/problem/11399)
++ [어린왕자](https://www.acmicpc.net/problem/1004)
++ [DFS와 BFS](https://www.acmicpc.net/problem/1260)
++ [두 수의 합](https://www.acmicpc.net/problem/3273)
 <details>
   <summary>이전 주 문제들!</summary>
   
