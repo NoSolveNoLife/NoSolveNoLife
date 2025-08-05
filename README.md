@@ -21,13 +21,20 @@
 <details>
   <summary>Click to expand!</summary>
   
+### 250812
++ [토마토](https://www.acmicpc.net/problem/7576)
++ [두용액](https://www.acmicpc.net/problem/2470)
++ [합분해](https://www.acmicpc.net/problem/2225)
++ [연구소](https://www.acmicpc.net/problem/14502)  
+
+<details>
+  <summary>이전 주 문제들!</summary>
+
 ### 250805
 + [효율적인 해킹](https://www.acmicpc.net/problem/1325)
 + [정수삼각형](https://www.acmicpc.net/problem/1932)
 + [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)
 + [01타일](https://www.acmicpc.net/problem/1904)  
-<details>
-  <summary>이전 주 문제들!</summary>
 
 ### 250729
 + [ATM](https://www.acmicpc.net/problem/11399)
