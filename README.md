@@ -11,46 +11,57 @@
 </div>
 
 ## Features
+
 - [Problems](#Problems)
 - [Introduction](#Introduction)
 - [Rules](#Rules)
 - [Schedule](#Schedule)
 
-
 ## Problems
+
 <details>
   <summary>Click to expand!</summary>
-  
-### 250812
-+ [토마토](https://www.acmicpc.net/problem/7576)
-+ [두용액](https://www.acmicpc.net/problem/2470)
-+ [합분해](https://www.acmicpc.net/problem/2225)
-+ [연구소](https://www.acmicpc.net/problem/14502)  
+
+### 250818
+
+- [회전 초밥](https://www.acmicpc.net/problem/2531)
+- [테트로미노](https://www.acmicpc.net/problem/14500)
+- [회의실 배정](https://www.acmicpc.net/problem/1931)
+- [전화번호 목록](https://www.acmicpc.net/problem/5052)
 
 <details>
   <summary>이전 주 문제들!</summary>
 
+### 250812
+
+- [토마토](https://www.acmicpc.net/problem/7576)
+- [두용액](https://www.acmicpc.net/problem/2470)
+- [합분해](https://www.acmicpc.net/problem/2225)
+- [연구소](https://www.acmicpc.net/problem/14502)
+
 ### 250805
-+ [효율적인 해킹](https://www.acmicpc.net/problem/1325)
-+ [정수삼각형](https://www.acmicpc.net/problem/1932)
-+ [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)
-+ [01타일](https://www.acmicpc.net/problem/1904)  
+
+- [효율적인 해킹](https://www.acmicpc.net/problem/1325)
+- [정수삼각형](https://www.acmicpc.net/problem/1932)
+- [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)
+- [01타일](https://www.acmicpc.net/problem/1904)
 
 ### 250729
-+ [ATM](https://www.acmicpc.net/problem/11399)
-+ [어린왕자](https://www.acmicpc.net/problem/1004)
-+ [DFS와 BFS](https://www.acmicpc.net/problem/1260)
-+ [두 수의 합](https://www.acmicpc.net/problem/3273)  
-  
-### 250629
-+ [TEST](https://www.acmicpc.net/problem/17615)
-+ [TEST](https://www.acmicpc.net/problem/2096)
-+ [TEST](https://www.acmicpc.net/problem/20057)
-+ [TEST](https://www.acmicpc.net/problem/10942)
-+ [TEST](https://www.acmicpc.net/problem/15903)
-</details>
-</details>
 
+- [ATM](https://www.acmicpc.net/problem/11399)
+- [어린왕자](https://www.acmicpc.net/problem/1004)
+- [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [두 수의 합](https://www.acmicpc.net/problem/3273)
+
+### 250629
+
+- [TEST](https://www.acmicpc.net/problem/17615)
+- [TEST](https://www.acmicpc.net/problem/2096)
+- [TEST](https://www.acmicpc.net/problem/20057)
+- [TEST](https://www.acmicpc.net/problem/10942)
+- [TEST](https://www.acmicpc.net/problem/15903)
+</details>
+</details>
 
 ## Introduction
 
