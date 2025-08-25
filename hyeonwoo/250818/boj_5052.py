@@ -2,6 +2,8 @@
 
 t = int(input())
 
+results = []
+
 for _ in range(t):
     n = int(input())
 
@@ -12,7 +14,10 @@ for _ in range(t):
 
     for i in range(n-1):
         if numbers[i] == numbers[i+1][:len(numbers[i])]:
-            print("NO")
+            results.append("NO")
             break
     else:
-        print("YES")
+        results.append("YES")
+
+for result in results:
+    print(result)
