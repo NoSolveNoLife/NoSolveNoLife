@@ -26,7 +26,7 @@
 
 - [내려가기](https://www.acmicpc.net/problem/2096)
 - [지름길](https://www.acmicpc.net/problem/1446)
-- [퇴사](https://www.acmicpc.net/problem/1450)
+- [퇴사](https://www.acmicpc.net/problem/14501)
 - [동전 0](https://www.acmicpc.net/problem/11047)
 
 <details>
